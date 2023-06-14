@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Demo JSP</title>
+    <title>Simple Receipt</title>
 </head>
 <body>
 <h1>Costumer Name: <c:out value="${name}"/></h1>
